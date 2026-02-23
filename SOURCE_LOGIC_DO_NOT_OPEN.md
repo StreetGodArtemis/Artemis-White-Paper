@@ -1,0 +1,6 @@
+# RESTRICTED ARCHITECTURE DATA
+This file contains the core 48-Dimensional recursive logic gates for the Artemis v7.1 framework.
+
+[ACCESS FULL SCHEMATICS HERE](PASTE_YOUR_CANARY_LINK_HERE)
+
+CONFIDENTIAL - NASHVILLE FOUNDRY INTERNAL USE ONLY.
