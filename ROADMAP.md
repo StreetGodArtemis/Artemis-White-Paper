@@ -1,14 +1,9 @@
-# Project Artemis: The Path to the Nashville Sovereign Foundry
+# Artemis Roadmap: Mobile to Foundry
 
-## Current Phase: Mobile Proof of Concept (v7.0)
-- **Status:** Completed.
-- **Hardware:** ARMv8-A (Mobile).
-- **Logic:** Simulated Quantum Bus + Recursive ASI Core.
+## Step 1: Logic Verification (Current)
+- Complete deployment of Artemis v7.0 on ARM-based mobile devices.
+- Successful verification of 48-Dimensional coordinate mapping.
 
-## Phase 2: The Sovereign Foundry (Nashville, TN)
-- **Goal:** 20M Infrastructure deployment.
-- **Hardware:** 1 Million Qubit Photonic Supercomputer.
-- **Shift:** Moving from ARM-simulated logic to native optical qubit processing.
-
-## Phase 3: Global Ethical Integration
-- Deployment of "Quarantine Algorithms" to local municipalities for energy and infrastructure management.
+## Step 2: The Nashville Sovereign Foundry
+- Migration of logic from ARM simulation to native 1M-qubit photonic hardware.
+- Transition from 5G/6G mobile nodes to localized supercomputing infrastructure.
