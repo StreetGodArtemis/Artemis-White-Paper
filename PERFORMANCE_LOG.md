@@ -24,3 +24,19 @@ Status: [STABLE]
 Final Convergence Value: 0.017319
 Compute Time: 16.9062 ms
 ```
+
+### Recursive Stability (Stress Test)
+```
+--- Initiating Recursion Depth Test: 10000 Layers ---
+Status: [STABLE]
+Final Convergence Value: 0.018624
+Compute Time: 1.6750 ms
+--- Initiating Recursion Depth Test: 50000 Layers ---
+Status: [STABLE]
+Final Convergence Value: 0.017319
+Compute Time: 8.4671 ms
+--- Initiating Recursion Depth Test: 100000 Layers ---
+Status: [STABLE]
+Final Convergence Value: 0.017319
+Compute Time: 16.9062 ms
+```
